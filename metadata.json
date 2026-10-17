@@ -1,0 +1,6 @@
+{
+  "name": "PropertiClip AI - Generator Video Promosi Agen Properti",
+  "description": "Generator video promosi properti profesional bertenaga AI untuk agen properti. Ubah foto rumah dan listing menjadi video siap posting untuk WA Status, Reels, TikTok, dan Facebook dengan narasi AI realistis dan branding agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
